@@ -1,1 +1,1 @@
-![double_diamond](Files/Diamond.png)
+[](Files/Diamond.jpg)
