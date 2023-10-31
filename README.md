@@ -1,1 +1,1 @@
-[](Files/Diamond.jpg)
+![](Files/Diamond.jpg)
