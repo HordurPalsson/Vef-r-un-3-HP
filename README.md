@@ -1,2 +1,2 @@
-<img src="Files/Diamond.jpg">
-<img src="Files/Wireframe.jpg">
+<img src="./Diamond.jpg">
+<img src="./Wireframe.jpg">
