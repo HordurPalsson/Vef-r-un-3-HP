@@ -1,2 +1,2 @@
-![Double Diamond](Diamond.jpg)
-![Wirefram](Wireframe.jpg)
+![Double Diamond](Files/Diamond.jpg)
+![Wireframe](Files/Wireframe.jpg)
